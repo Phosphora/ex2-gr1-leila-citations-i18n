@@ -27,7 +27,7 @@ $meta = [
 /********** ENTÊTE ********************/
 $entNomSite = "LEILA";
 $entSousTitre = "CUISINE BISTRONOMIQUE";
-$entOuverture = "Ouvert aujourd'hui jusqu'à 23 h";
+$entOuverture = "مفتوح اليوم حتى الساعة 11 مساءً.";
 $entAdresse = "275 rue Notre-Dame Est, Montréal, Québec";
 $entTelephone = "(514) 958-2580";
 $entNavMenuTitre = "Les menus";
